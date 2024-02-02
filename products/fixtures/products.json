@@ -1,0 +1,41 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "2.2L waterbottle",
+        "price": 19.99,
+        "category": "gym equipment",
+        "stock": 100,
+        "details": "Our jumbo clear water bottle design can deliver your recommended daily water intake in one fill. Fitted with a brand new easy to drink cap, silicon seal and robust nylon carrying strap.",
+        "image": "2.2l_waterbottle.jpg"
+      },
+      {
+        "id": 2,
+        "name": "absorbant gym towels",
+        "price": 29.99,
+        "category": "gym equipment",
+        "stock": 50,
+        "details": "Package Includes: 3pc – 40cm X 80cm Microfiber Sports Gym Towels",
+        "image": "absorbant_gym_towels.jpg"
+      },
+      {
+        "id": 3,
+        "name": "ankle weights",
+        "price": 39.99,
+        "category": "Tools",
+        "stock": 75,
+        "details": "SOLD AS A PAIR: The weight in the above options is a pair of weights. 1KG Pair = 2 * 0.5KG Each; 2KG Pair = 2 * 1KG Each; 3KG Pair = 2 * 1.5KG Each; 4KG Pair = 2 * 2KG Each.",
+        "image": "ankle_weights.jpg"
+      },
+      {
+        "id": 4,
+        "name": "bar",
+        "price": 49.99,
+        "category": "gym",
+        "stock": 120,
+        "details": "Durable Vinyl Construction - The Phoenix Fitness 20kg Barbell Set is made from durable vinyl which can help reduce noise and protect the floors around your workout area.",
+        "image": "bar.jpg"
+      }
+    ]
+  }
+  
