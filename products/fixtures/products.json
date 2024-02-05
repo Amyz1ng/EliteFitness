@@ -1,41 +1,12 @@
-{
-    "products": [
-      {
-        "id": 1,
-        "name": "2.2L waterbottle",
-        "price": 19.99,
-        "category": "gym equipment",
-        "stock": 100,
-        "details": "Our jumbo clear water bottle design can deliver your recommended daily water intake in one fill. Fitted with a brand new easy to drink cap, silicon seal and robust nylon carrying strap.",
-        "image": "2.2l_waterbottle.jpg"
-      },
-      {
-        "id": 2,
-        "name": "absorbant gym towels",
-        "price": 29.99,
-        "category": "gym equipment",
-        "stock": 50,
-        "details": "Package Includes: 3pc – 40cm X 80cm Microfiber Sports Gym Towels",
-        "image": "absorbant_gym_towels.jpg"
-      },
-      {
-        "id": 3,
-        "name": "ankle weights",
-        "price": 39.99,
-        "category": "Tools",
-        "stock": 75,
-        "details": "SOLD AS A PAIR: The weight in the above options is a pair of weights. 1KG Pair = 2 * 0.5KG Each; 2KG Pair = 2 * 1KG Each; 3KG Pair = 2 * 1.5KG Each; 4KG Pair = 2 * 2KG Each.",
-        "image": "ankle_weights.jpg"
-      },
-      {
-        "id": 4,
-        "name": "bar",
-        "price": 49.99,
-        "category": "gym",
-        "stock": 120,
-        "details": "Durable Vinyl Construction - The Phoenix Fitness 20kg Barbell Set is made from durable vinyl which can help reduce noise and protect the floors around your workout area.",
-        "image": "bar.jpg"
-      }
-    ]
-  }
-  
+[
+  {"pk": 1, "model": "products.product", "fields": {"sku": "WB-2.2L-blk", "name": "2.2L Waterbottle", "description": "EXTRA LARGE WATER BOTTLE - With our extra-large gallon water bottle, you'll have a whopping 2-liter capacity, ensuring you never run out of water during your intense workouts at the gym.", "price": 15.99, "category": 6, "rating": 4.6, "image": "2.2l waterbottle.jpg"}},
+  {"pk": 2, "model": "products.product", "fields": {"sku": "AGT-BBG-3PK", "name": "Absorbent Gym Towels", "description": "Size: The gym towel is made of high-quality 100% microfiber, each size is 16 Inch X 32 Inch, High Quality: Made of high-quality microfiber, Lightweight and compact than ordinary towel. Unique terry texture design can absorb more water than normal cotton towels. Dries 3 times faster than traditional towels", "price": 20.00, "category": 6, "rating": 4.7, "image": "absorbant gym towels.jpg"}},
+  {"pk": 3, "model": "products.product", "fields": {"sku": "PSh-blk-WHT", "name": "Protein Shaker", "description": "SHAKER BOTTLE PACK OF 2 - Includes 2 units of 700 ml capacity shaker bottle, a detachable protein storage jar, and a plastic whisk mixer ball. The ideal sports bottle for instant protein shakes and supplement drinks.", "price": 13.99, "category": 6, "rating": 4.4, "image": "shaker.jpg"}},
+  {"pk": 4, "model": "products.product", "fields": {"sku": "SCT-WBP-3PK", "name": "Sweat cooling towels", "description": "INSTANT COOLING, REUSABLE - Hyper-evaporative breathable mesh material makes it easy to activate the chilling towel when you simply soak", "price": 8.99, "category": 6, "rating": 4.5, "image": "sweat-cooling-towel.jpg"}},
+  {"pk": 5, "model": "products.product", "fields": {"sku": "WHEY-PRT-CON", "name": "Whey Protein Container", "description": "EASY-TO-CARRY - The Portable and miniature size lets you bring supplements with you wherever you go", "price": 7.00, "category": 6, "rating": 4.6, "image": "whey-protein-container.jpg"}},
+  {"pk": 6, "model": "products.product", "fields": {"sku": "MTH-BLK-GLD", "name": "Mouth guard", "description": "Our unique Jaw Secure base will help protect your jaw from impact and also ensures a tight and comfortable fit, protecting all teeth.", "price": 5.99, "category": 5, "rating": 5.0, "image": "mouth-guard.jpg"}},
+  {"pk": 7, "model": "products.product", "fields": {"sku": "PNCH-GLV", "name": "Punching Gloves", "description": "", "price": 24.99, "category": 5, "rating": 4.9, "image": "punching-gloves.jpg"}},
+  {"pk": 8, "model": "products.product", "fields": {"sku": "BOX-GLV", "name": "Boxing Gloves", "description": "FLYING boxing gloves are perfect for training, kickboxing, combat sports, taekwondo, kickboxing, MMA, muay thai, and martial arts.", "price": 29.99, "category": 5, "rating": 4.8, "image": "boxing-gloves.jpg"}},
+  {"pk": 9, "model": "products.product", "fields": {"sku": "GYM-GLV", "name": "Gym Gloves", "description": "WORKOUT GLOVES: Designed using the latest Aeroready Tech, Performance Gloves help to keep you cool and dry while you train. With built-in mesh ventilation, the gloves assist with breathability while the durable material has a padded grip.", "price": 10.99, "category": 5, "rating": 4.7, "image": "gym-gloves.jpg"}},
+  {"pk": 10, "model": "products.product", "fields": {"sku": "GYM-BAG", "name": "Gym Bag", "description": "BUILT TO LAST: Compact size in 18.5l, weigh 1.6lbs. The gym bag is made of high-density durable polyester cloth materials, water-resistant & tear-resistant, which offers the durability for long-term use. Packing Up Your Gear All Together.", "price": 29.99, "category": 5, "rating": 4.9, "image": "gym-bag.jpg"}}
+]
