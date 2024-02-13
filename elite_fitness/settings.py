@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-)5tyx+p(d=n4e6w8-_pvu=v2_bc@#2ht#+v04tgv@mvf2ue9kx
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-amyz1ng-elitefitness-i82dzlznj9s.ws-eu108.gitpod.io']
+ALLOWED_HOSTS = ['8000-amyz1ng-elitefitness-gjbund4if61.ws-eu108.gitpod.io']
 
 
 # Application definition
@@ -77,6 +77,8 @@ TEMPLATES = [
     },
 ]
 
+MESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'
+
 AUTHENTICATION_BACKENDS = (
     # Needed to login by username in Django admin, regardless of `allauth`
     'django.contrib.auth.backends.ModelBackend',
@@ -110,6 +112,8 @@ DATABASES = {
     }
 }
 
+# Default primary key field for all models
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
