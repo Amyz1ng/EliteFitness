@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-)5tyx+p(d=n4e6w8-_pvu=v2_bc@#2ht#+v04tgv@mvf2ue9kx
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-amyz1ng-elitefitness-gjbund4if61.ws-eu108.gitpod.io']
+ALLOWED_HOSTS = ['8000-amyz1ng-elitefitness-9i0rb8sw51z.ws-eu108.gitpod.io']
 
 
 # Application definition
@@ -44,6 +44,9 @@ INSTALLED_APPS = [
     'products',
     'bag',
     'checkout',
+
+     # Other
+    'crispy_forms',
 ]
 
 MIDDLEWARE = [
@@ -57,6 +60,8 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'elite_fitness.urls'
+
+CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 TEMPLATES = [
     {
@@ -72,8 +77,13 @@ TEMPLATES = [
                 'django.template.context_processors.request', # required by allauth
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
+                'django.template.context_processors.media',
                 'bag.contexts.bag_contents',
             ],
+            'builtins': [
+                'crispy_forms.templatetags.crispy_forms_tags',
+                'crispy_forms.templatetags.crispy_forms_field',
+            ]
         },
     },
 ]
