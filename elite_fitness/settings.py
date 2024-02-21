@@ -176,3 +176,4 @@ STRIPE_CURRENCY = 'usd'
 STRIPE_PUBLIC_KEY = os.getenv('STRIPE_PUBLIC_KEY', 'pk_test_51Ok6WJELhiwlicG8NTbbwaXI4jYhn3evpgooi7NxCPm6cML6RY90OQXUikqe0Agco5txDYxHEt5956UC7cZs1IxR00WmWo9u9S')
 STRIPE_SECRET_KEY = os.getenv('STRIPE_SECRET_KEY', 'sk_test_51Ok6WJELhiwlicG88i7mLHjJsKiWg3IpubtIoLWPFIGT6p9KvZy0FevcpwcxEmjuKKl8pclg07BzYGuywi5VjkKr00SM7d3GKK')
 STRIPE_WH_SECRET = os.getenv('STRIPE_WH_SECRET', 'whsec_ImuaDSppMrq2dkx79CMcFE8iRLoxqRBI')
+DEFAULT_FROM_EMAIL = 'elitefitness@example.com'
