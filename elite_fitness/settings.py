@@ -10,7 +10,7 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 import os
-
+import dj_database_url
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-)5tyx+p(d=n4e6w8-_pvu=v2_bc@#2ht#+v04tgv@mvf2ue9kx
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-amyz1ng-elitefitness-9i0rb8sw51z.ws-eu108.gitpod.io']
+ALLOWED_HOSTS = ['amyleighsawyer97@gmail.com-elite-fitness-app.herokuapp.com','8000-amyz1ng-elitefitness-9i0rb8sw51z.ws-eu108.gitpod.io']
 
 
 # Application definition
@@ -116,11 +116,15 @@ WSGI_APPLICATION = 'elite_fitness.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
-
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+if 'DATABASE_URL' in os.environ:
+    DATABASES = {
+        'default': dj_database_url.parse(os.environ.get('DATABASE_URL'))
+    }
+else:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
 

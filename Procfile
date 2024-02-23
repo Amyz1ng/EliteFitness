@@ -1,0 +1,1 @@
+web: gunicorn elite_fitness.wsgi:application
