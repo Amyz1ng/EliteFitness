@@ -23,8 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = os.environ.get('SECRET_KEY', get_random_secret_key())
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = 'DEVELOPMENT' in os.environ
-DEBUG = True
+DEBUG = os.environ.get('DEBUG', 'False') == 'True'
+
+
 ALLOWED_HOSTS = [
     'amyleighsawyer97@gmail.com-elite-fitness-app.herokuapp.com',
     '8000-amyz1ng-elitefitness-crf015xxz1l.ws-eu108.gitpod.io',
@@ -69,6 +70,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
 
 ROOT_URLCONF = 'elite_fitness.urls'
