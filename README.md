@@ -63,7 +63,17 @@ The welcome  image is used to convey a feeling of a broader sense of
 ### Overall Feel  
 The main objective in creating the site was to have it look elegant and simplistic for easy navigation, while still providing the user with all of the information one would want at first sight.
 
+## Technologies Used
 
+### Languages Used
+- HTML5  
+- CSS  
+- JavaScript
+- python
+- aws (amazon web services)
+- heroku
+- elephantsql
+  
 # FEATURES  
 ## Current Features
 
