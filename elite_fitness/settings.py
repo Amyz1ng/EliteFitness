@@ -24,10 +24,17 @@ SECRET_KEY = os.environ.get('SECRET_KEY', get_random_secret_key())
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = 'DEVELOPMENT' in os.environ
-
-ALLOWED_HOSTS = [ 'amyleighsawyer97@gmail.com-elite-fitness-app.herokuapp.com',
+DEBUG = True
+ALLOWED_HOSTS = [
+    'amyleighsawyer97@gmail.com-elite-fitness-app.herokuapp.com',
     '8000-amyz1ng-elitefitness-9i0rb8sw51z.ws-eu108.gitpod.io',
-    'elite-fitness-app-11f1c9c12b1b.herokuapp.com',]
+    'elite-fitness-app-11f1c9c12b1b.herokuapp.com',
+    '127.0.0.1',  # Add localhost for local development
+    'localhost',  # Add localhost for local development
+]
+
+import mimetypes
+mimetypes.add_type("text/css", ".css", True)
 
 
 # Application definition
