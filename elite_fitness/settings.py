@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 import os
 import dj_database_url
+from django.core.management.utils import get_random_secret_key
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -19,7 +20,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = os.environ.get('SECRET_KEY', '')
+SECRET_KEY = os.environ.get('SECRET_KEY', get_random_secret_key())
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = 'DEVELOPMENT' in os.environ
@@ -205,3 +206,9 @@ STRIPE_PUBLIC_KEY = os.getenv('STRIPE_PUBLIC_KEY', 'pk_test_51Ok6WJELhiwlicG8NTb
 STRIPE_SECRET_KEY = os.getenv('STRIPE_SECRET_KEY', 'sk_test_51Ok6WJELhiwlicG88i7mLHjJsKiWg3IpubtIoLWPFIGT6p9KvZy0FevcpwcxEmjuKKl8pclg07BzYGuywi5VjkKr00SM7d3GKK')
 STRIPE_WH_SECRET = os.getenv('STRIPE_WH_SECRET', 'whsec_ImuaDSppMrq2dkx79CMcFE8iRLoxqRBI')
 DEFAULT_FROM_EMAIL = 'elitefitness@example.com'
+
+# Import the sys module
+import sys
+
+# Print out the system path
+print("System path:", sys.path)
