@@ -290,11 +290,9 @@ input[name='q']::placeholder {
 }
 
 .card {
-    height: 100%;
     margin: 15px;
     transition: all 0.2s ease-in-out;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    border: 1px solid #DDDDDD !important; 
+    border: 0.1px solid #DDDDDD !important; 
 }
 
 .card:hover {
