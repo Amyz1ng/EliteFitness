@@ -290,14 +290,11 @@ input[name='q']::placeholder {
 }
 
 .card {
-    /* Set a fixed height for the card */
     height: 100%;
-    /* Adjust as needed, you might use a specific px value */
     margin: 15px;
     transition: all 0.2s ease-in-out;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    padding: 5px;
-    border: 1px solid #DDDDDD; 
+    border: 1px solid #DDDDDD !important; 
 }
 
 .card:hover {
@@ -306,15 +303,11 @@ input[name='q']::placeholder {
 }
 
 .card-img-top {
-    /* Set a fixed height for images */
     height: 200px;
-    /* Adjust based on your design */
     padding: 5px;
     object-fit: cover;
-    /* This makes sure the image covers the area, may crop if necessary */
 }
 
-/* Optional: Ensure card body and footer have consistent spacing */
 .card-body,
 .card-footer {
     display: flex;
