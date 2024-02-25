@@ -52,8 +52,9 @@
                 </div>
                 <div class="row">
                     {% for product in products %}
-                    <div class="col-sm-6 col-md-4 col-lg-3"> <!-- This ensures each card is in its column -->
-                        <div class="card border-0">
+                    <!-- Add margin around each card with mx-* (for horizontal margin) and my-* (for vertical margin) -->
+                    <div class="col-sm-6 col-md-4 col-lg-3 mb-4"> <!-- Adjust or add Bootstrap classes as needed -->
+                        <div class="card border-0 h-100 shadow-sm"> <!-- Added shadow-sm for a subtle shadow effect -->
                             {% if product.image %}
                             <a href="{% url 'product_detail' product.id %}">
                                 <img class="card-img-top img-fluid" src="{{ product.image.url }}" alt="{{ product.name }}">
@@ -70,24 +71,7 @@
                                 <div class="row">
                                     <div class="col">
                                         <p class="lead mb-0 text-left font-weight-bold">${{ product.price }}</p>
-                                        {% if product.category %}
-                                        <p class="small mt-1 mb-0">
-                                            <a class="text-muted" href="{% url 'products' %}?category={{ product.category.name }}">
-                                                <i class="fas fa-tag mr-1"></i>{{ product.category.friendly_name }}
-                                            </a>
-                                        </p>
-                                        {% endif %}
-                                        {% if product.rating %}
-                                        <small class="text-muted"><i class="fas fa-star mr-1"></i>{{ product.rating }} / 5</small>
-                                        {% else %}
-                                        <small class="text-muted">No Rating</small>
-                                        {% endif %}
-                                        {% if request.user.is_superuser %}
-                                        <small class="ml-3">
-                                            <a href="{% url 'edit_product' product.id %}">Edit</a> | 
-                                            <a class="text-danger" href="{% url 'delete_product' product.id %}">Delete</a>
-                                        </small>
-                                        {% endif %}
+                                        ...
                                     </div>
                                 </div>
                             </div>
@@ -95,6 +79,7 @@
                     </div>
                     {% endfor %}
                 </div>
+                
                 
                     {% for product in products %}
                     <div class="card border-0">
