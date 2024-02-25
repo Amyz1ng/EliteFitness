@@ -294,14 +294,13 @@ input[name='q']::placeholder {
     height: 100%;
     /* Adjust as needed, you might use a specific px value */
     margin: 15px;
-    transition: transform 0.2s;
+    transition: all 0.2s ease-in-out;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 .card:hover {
-    transform: scale(1.03);
+    transform: translateY(-5px);
     box-shadow: 0 6px 12px rgba(0,0,0,0.2);
-    /* Slightly enlarges the card on hover */
 }
 
 .card-img-top {
