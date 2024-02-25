@@ -302,9 +302,11 @@ input[name='q']::placeholder {
 
 .card-img-top {
     height: 200px;
-    padding: 5px;
+    width: 100%;
     object-fit: cover;
-}
+    object-position: center;
+  }
+  
 
 .card-body,
 .card-footer {
