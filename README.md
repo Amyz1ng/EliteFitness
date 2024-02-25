@@ -1,4 +1,4 @@
-# Booking system
+# Elite Fitness App
 You can find the Live site [here]()
 
 # Responsive
