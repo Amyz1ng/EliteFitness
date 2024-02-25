@@ -15,4 +15,4 @@ urlpatterns = [
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
 # Define the handler404 at the module level
-handler404 = 'elite-fitness-app.views.handler404'
+handler404 = 'elite_fitness_app.views.handler404'
