@@ -296,7 +296,7 @@ input[name='q']::placeholder {
     margin: 15px;
     transition: all 0.2s ease-in-out;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    background-color: #EEEEEE; /* Light grey background */
+    padding: 5px;
     border: 1px solid #DDDDDD; 
 }
 
@@ -309,6 +309,7 @@ input[name='q']::placeholder {
     /* Set a fixed height for images */
     height: 200px;
     /* Adjust based on your design */
+    padding: 5px;
     object-fit: cover;
     /* This makes sure the image covers the area, may crop if necessary */
 }
