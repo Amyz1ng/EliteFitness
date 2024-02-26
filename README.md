@@ -1,5 +1,5 @@
 # Elite Fitness App
-You can find the Live site [here]()
+You can find the Live site [here](https://elite-fitness-app-11f1c9c12b1b.herokuapp.com/)
 
 # Responsive
 
@@ -9,7 +9,8 @@ You can find the Live site [here]()
 
 The header shows the name of the business and .....
 
-*image*
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/ca1fba2f-e02d-4e80-91fa-2aadd82fe4d4)
+
 
 ## THE BODY  
 
@@ -24,17 +25,23 @@ Shows the important infomation our main products of our website which is the MEN
 we show a list of items avaliabale for purchase.
 
 *image*
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/9b3979f9-691d-40ce-91da-8e369fb2ffed)
 
 
-The Contact page 
+The profile page 
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/b14f33d8-a9c4-4571-82a9-34dc0ed84e92)
 
 
 
-# Download
+# sign in
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/f9501bb5-37be-4fc8-a796-0d40e419c583)
 
 
 ## Register  
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/b3357a5c-b463-4eb5-9937-6f8e5a036c5a)
 
+## Product Management page
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/d926f906-880c-442d-bd64-e60af1f9156b)
 
 ## Wireframes
 ![2](https://github.com/Amyz1ng/EliteFitness/assets/124196828/e8e00750-fca5-4209-b917-3efef9b10674)
@@ -57,6 +64,10 @@ The Contact page
 
 ### Imagery  
 Visual representations are an important part of the user experience for this project, used to draw a potential client in.
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/905a1907-5665-4433-a8de-50d5f8e35102)
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/b1ce6fdd-4f81-40a6-9905-9c291f849454)
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/c60db6f4-77a5-4dad-bd50-5d683d041462)
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/da393076-7bb2-4108-92d0-94a5b68c9668)
 
 The welcome  image is used to convey a feeling of a broader sense of 
 
