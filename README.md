@@ -121,9 +121,11 @@ No errors were found when passing through the offical (jigsaw) validator
 ## ACCESSIBILITY  
 
 ## MOBILE 
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/4afb22aa-d88a-4299-b43d-beed27a8a696)
 
 
 ## DESKTOP
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/76a997aa-c502-4c31-ac4b-4d79d42d565f)
 
 
 ## Testing User Stories from (UX) Section  
