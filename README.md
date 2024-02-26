@@ -196,7 +196,7 @@ This site was deployed through GitHub Pages using the following steps:
 # Credits
 - boutique ado
 - sean gareth for fixing errors in my code and guiding me 
-[You can find the Live site to facebook [here](https://www.facebook.com/profile.php?id=61556344694708)
+-[You can find the Live site to facebook [here](https://www.facebook.com/profile.php?id=61556344694708)
 ## CONTENT
 the Code for the main page was taken from Boutique Ado
 
