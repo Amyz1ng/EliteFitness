@@ -9,6 +9,9 @@ You can find the Live site [here](https://elite-fitness-app-11f1c9c12b1b.herokua
 ![lighthouse - desktop](https://github.com/Amyz1ng/EliteFitness/assets/124196828/533fa3e4-f94b-498b-a52f-5882a2c40db4)
 ![Screenshot 2024-02-25 121054](https://github.com/Amyz1ng/EliteFitness/assets/124196828/4ecb6b42-42b2-4971-a5d3-a6aaec110f2f)
 
+#busines-module
+[EliteFitnessBusinessModel (2).docx](https://github.com/Amyz1ng/EliteFitness/files/14407505/EliteFitnessBusinessModel.2.docx)
+
 ## THE HEADER  
 
 The header shows the name of the business and gives a list of tabs such as producs, clothing, gym and special offers, my account and the shopping bag.
