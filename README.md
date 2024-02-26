@@ -5,6 +5,10 @@ You can find the Live site [here](https://elite-fitness-app-11f1c9c12b1b.herokua
 
 *image*
 
+# Lighthouse
+![lighthouse - desktop](https://github.com/Amyz1ng/EliteFitness/assets/124196828/533fa3e4-f94b-498b-a52f-5882a2c40db4)
+
+
 ## THE HEADER  
 
 The header shows the name of the business and gives a list of tabs such as producs, clothing, gym and special offers, my account and the shopping bag.
@@ -12,6 +16,7 @@ the tabs drop down into other tabs for the shopping cart.
 
 ![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/ca1fba2f-e02d-4e80-91fa-2aadd82fe4d4)
 
+![Screenshot 2024-02-25 121054](https://github.com/Amyz1ng/EliteFitness/assets/124196828/4ecb6b42-42b2-4971-a5d3-a6aaec110f2f)
 
 ## THE BODY  
 
