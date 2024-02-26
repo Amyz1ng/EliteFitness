@@ -1,5 +1,5 @@
 # Elite Fitness App
-[You can find the Live site [here](](https://www.facebook.com/profile.php?id=61556344694708)https://elite-fitness-app-11f1c9c12b1b.herokuapp.com/)
+[You can find the Live site [here](https://elite-fitness-app-11f1c9c12b1b.herokuapp.com/)
 
 # Responsive
 
