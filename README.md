@@ -1,5 +1,5 @@
 # Elite Fitness App
-You can find the Live site [here](https://elite-fitness-app-11f1c9c12b1b.herokuapp.com/)
+[You can find the Live site [here](](https://www.facebook.com/profile.php?id=61556344694708)https://elite-fitness-app-11f1c9c12b1b.herokuapp.com/)
 
 # Responsive
 
@@ -196,7 +196,7 @@ This site was deployed through GitHub Pages using the following steps:
 # Credits
 - boutique ado
 - sean gareth for fixing errors in my code and guiding me 
-  
+[You can find the Live site to facebook [here](https://www.facebook.com/profile.php?id=61556344694708)
 ## CONTENT
 the Code for the main page was taken from Boutique Ado
 
