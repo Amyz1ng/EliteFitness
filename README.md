@@ -3,7 +3,7 @@ You can find the Live site [here](https://elite-fitness-app-11f1c9c12b1b.herokua
 
 # Responsive
 
-
+*image*
 
 ## THE HEADER  
 
@@ -126,14 +126,14 @@ As a user, I want to be able to understand the business brand at a first look.
 
 The welcome area on the hompage looks good on all devices. This is the main introduction to the brand and sets a nice tone for the business brand.
 
-As a user, I want to be able to access information about the various food items available to me.
+As a user, I want to be able to access information about the various product items available to me.
 
-The menu has their own page. As well as a downloadable link in the footer which will download the entire menu
-As a user, I want to be able to contact someone to place a food order or make a reservation.
+The menu has their own page. 
+As a user, I want to be able to look at products and add them to my shopping cart.
 
-The reservation form allows the user to select which day, time and how many people you would like to book for. 
+The registration form allows the user to create an account to save orders and show past order infomation. 
 
-Social link on the footer onall pages will allow the user to PM or DM the business through social media.
+Social link will allow the user to PM or DM the business through social media.
 As a user, I want to be able to be able to find the business location.
 
 ## Further Testing
