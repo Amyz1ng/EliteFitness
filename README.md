@@ -164,7 +164,7 @@ When there were devices/browsers that I didn't have access to, I used https://ui
 This site was deployed through GitHub Pages using the following steps:
 
 1. Log into [GitHub.](https://github.com/)
-2. Locate the [repository.]()
+2. Locate the [repository.](https://github.com/Amyz1ng/EliteFitness/tree/main)
 3. Locate the settings option along the options bar.
 4. Locate GitHub Pages options towards the bottom of the page.
 5. In 'Source' dropdown, select 'Master' from the branch options.
@@ -174,7 +174,7 @@ This site was deployed through GitHub Pages using the following steps:
 
 ## Cloning Project
 1. Log into [GitHub.](https://github.com/)
-2. Locate the [repository.]()
+2. Locate the [repository.](https://github.com/Amyz1ng/EliteFitness/tree/main)
 3. Click the 'Code' dropdown above the file list.
 4. Copy the URL for the repository.
 5. Open Git Bash on your device.
@@ -184,9 +184,12 @@ This site was deployed through GitHub Pages using the following steps:
 8. Press Enter to create your local clone.
 
 # Credits
-
+- boutique ado
+- sean gareth
+  
 ## CONTENT
+the Code for the main page was taken from Boutique Ado
 
 ## MEDIA
-
+The Main body image and products images  were taken from Google Images word search
 
