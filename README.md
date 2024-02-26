@@ -102,19 +102,16 @@ I confirm that the form works: requires entries in every feild, will only accept
 ## VALIDATOR TESTING
 ### HTML
 I had a couple of errors with my HTML format when running it through the W3c validator
-warning errors were shown but i have fixed most of them.
+there are 7 warning errors that were shown.
 
-*image*
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/d0e2a931-9eb0-4361-9c36-9b495398258f)
 
 ### CSS  
 No errors were found when passing through the offical (jigsaw) validator
 
-*image*
-
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/486030f7-ae4f-48f0-b627-958151975514)
 ### JS
-
-*image*
-
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/837989c2-48fc-4353-bd5b-3f39b513a40a)
 
 ## ACCESSIBILITY  
 
