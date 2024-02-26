@@ -185,7 +185,7 @@ This site was deployed through GitHub Pages using the following steps:
 
 # Credits
 - boutique ado
-- sean gareth
+- sean gareth for fixing errors in my code and guiding me 
   
 ## CONTENT
 the Code for the main page was taken from Boutique Ado
