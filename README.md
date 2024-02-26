@@ -7,7 +7,8 @@ You can find the Live site [here](https://elite-fitness-app-11f1c9c12b1b.herokua
 
 ## THE HEADER  
 
-The header shows the name of the business and .....
+The header shows the name of the business and gives a list of tabs such as producs, clothing, gym and special offers, my account and the shopping bag.
+the tabs drop down into other tabs for the shopping cart.
 
 ![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/ca1fba2f-e02d-4e80-91fa-2aadd82fe4d4)
 
@@ -15,23 +16,16 @@ The header shows the name of the business and .....
 ## THE BODY  
 
 Home Page
-On the main page we have .... 
 
-*image*
-
-
+On the main page we have the hero image as well as a shop now button. the Body has the navigation bar. 
 The menu page 
-Shows the important infomation our main products of our website which is the MENU 
+Shows the important infomation our main products of our website which is the Products we sell.
 we show a list of items avaliabale for purchase.
 
-*image*
 ![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/9b3979f9-691d-40ce-91da-8e369fb2ffed)
-
 
 The profile page 
 ![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/b14f33d8-a9c4-4571-82a9-34dc0ed84e92)
-
-
 
 # sign in
 ![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/f9501bb5-37be-4fc8-a796-0d40e419c583)
@@ -55,12 +49,13 @@ The profile page
 ## User Stories  
 - As a user, I want to understand what the business is at first look.  
 - As a user, I want to see what is avaliable to order.  
-- As a user, I want to be able to get in contact with the business through a contact.   
+- As a user, I want to be able to get in contact with the business through a contact or email.   
 - As a user, I want to be able to find the business with a location.  
-- As a user, I want to be able to make a reservation using a form.
+- As a user, I want to be able to make use of a profile using a form.
 
 ## Design  
 ### Colour Scheme 
+The colour Scheme is eligent and easy on the eyes.
 
 ### Imagery  
 Visual representations are an important part of the user experience for this project, used to draw a potential client in.
@@ -69,7 +64,7 @@ Visual representations are an important part of the user experience for this pro
 ![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/c60db6f4-77a5-4dad-bd50-5d683d041462)
 ![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/da393076-7bb2-4108-92d0-94a5b68c9668)
 
-The welcome  image is used to convey a feeling of a broader sense of 
+The welcome  image is used to convey a feeling of a broader sense of what our business is about and what the company is about which is Gyming.
 
 ### Overall Feel  
 The main objective in creating the site was to have it look elegant and simplistic for easy navigation, while still providing the user with all of the information one would want at first sight.
