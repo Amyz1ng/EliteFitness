@@ -240,7 +240,7 @@ DEFAULT_FROM_EMAIL = 'elitefitness@example.com'
 
 if 'DEVELOPMENT' in os.environ:
     EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
-    DEFAULT_FROM_EMAIL = 'elitefitness@example.com'
+    DEFAULT_FROM_EMAIL = 'roagaming1@gmail.com'
 else:
     EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
     EMAIL_USE_TLS = True
