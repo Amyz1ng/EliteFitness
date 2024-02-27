@@ -1,40 +1,49 @@
 # Elite Fitness App
-You can find the Live site [here]()
+[You can find the Live site] [here](https://elite-fitness-app-11f1c9c12b1b.herokuapp.com/)
 
 # Responsive
 
+*image*
 
+# Lighthouse
+![lighthouse - desktop](https://github.com/Amyz1ng/EliteFitness/assets/124196828/533fa3e4-f94b-498b-a52f-5882a2c40db4)
+![Screenshot 2024-02-25 121054](https://github.com/Amyz1ng/EliteFitness/assets/124196828/4ecb6b42-42b2-4971-a5d3-a6aaec110f2f)
+
+#busines-module
+[EliteFitnessBusinessModel (2).docx](https://github.com/Amyz1ng/EliteFitness/files/14407505/EliteFitnessBusinessModel.2.docx)
 
 ## THE HEADER  
 
-The header shows the name of the business and .....
+The header shows the name of the business and gives a list of tabs such as producs, clothing, gym and special offers, my account and the shopping bag.
+the tabs drop down into other tabs for the shopping cart.
 
-*image*
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/ca1fba2f-e02d-4e80-91fa-2aadd82fe4d4)
+
+
 
 ## THE BODY  
 
 Home Page
-On the main page we have .... 
 
-*image*
-
-
+On the main page we have the hero image as well as a shop now button. the Body has the navigation bar. 
 The menu page 
-Shows the important infomation our main products of our website which is the MENU 
+Shows the important infomation our main products of our website which is the Products we sell.
 we show a list of items avaliabale for purchase.
 
-*image*
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/9b3979f9-691d-40ce-91da-8e369fb2ffed)
 
+The profile page 
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/b14f33d8-a9c4-4571-82a9-34dc0ed84e92)
 
-The Contact page 
-
-
-
-# Download
+# sign in
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/f9501bb5-37be-4fc8-a796-0d40e419c583)
 
 
 ## Register  
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/b3357a5c-b463-4eb5-9937-6f8e5a036c5a)
 
+## Product Management page
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/d926f906-880c-442d-bd64-e60af1f9156b)
 
 ## Wireframes
 ![2](https://github.com/Amyz1ng/EliteFitness/assets/124196828/e8e00750-fca5-4209-b917-3efef9b10674)
@@ -48,17 +57,22 @@ The Contact page
 ## User Stories  
 - As a user, I want to understand what the business is at first look.  
 - As a user, I want to see what is avaliable to order.  
-- As a user, I want to be able to get in contact with the business through a contact.   
+- As a user, I want to be able to get in contact with the business through a contact or email.   
 - As a user, I want to be able to find the business with a location.  
-- As a user, I want to be able to make a reservation using a form.
+- As a user, I want to be able to make use of a profile using a form.
 
 ## Design  
 ### Colour Scheme 
+The colour Scheme is eligent and easy on the eyes.
 
 ### Imagery  
 Visual representations are an important part of the user experience for this project, used to draw a potential client in.
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/905a1907-5665-4433-a8de-50d5f8e35102)
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/b1ce6fdd-4f81-40a6-9905-9c291f849454)
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/c60db6f4-77a5-4dad-bd50-5d683d041462)
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/da393076-7bb2-4108-92d0-94a5b68c9668)
 
-The welcome  image is used to convey a feeling of a broader sense of 
+The welcome  image is used to convey a feeling of a broader sense of what our business is about and what the company is about which is Gyming.
 
 ### Overall Feel  
 The main objective in creating the site was to have it look elegant and simplistic for easy navigation, while still providing the user with all of the information one would want at first sight.
@@ -96,26 +110,25 @@ I confirm that the form works: requires entries in every feild, will only accept
 ## VALIDATOR TESTING
 ### HTML
 I had a couple of errors with my HTML format when running it through the W3c validator
-warning errors were shown but i have fixed most of them.
+there are 7 warning errors that were shown.
 
-*image*
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/d0e2a931-9eb0-4361-9c36-9b495398258f)
 
 ### CSS  
 No errors were found when passing through the offical (jigsaw) validator
 
-*image*
-
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/486030f7-ae4f-48f0-b627-958151975514)
 ### JS
-
-*image*
-
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/837989c2-48fc-4353-bd5b-3f39b513a40a)
 
 ## ACCESSIBILITY  
 
 ## MOBILE 
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/4afb22aa-d88a-4299-b43d-beed27a8a696)
 
 
 ## DESKTOP
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/76a997aa-c502-4c31-ac4b-4d79d42d565f)
 
 
 ## Testing User Stories from (UX) Section  
@@ -123,14 +136,14 @@ As a user, I want to be able to understand the business brand at a first look.
 
 The welcome area on the hompage looks good on all devices. This is the main introduction to the brand and sets a nice tone for the business brand.
 
-As a user, I want to be able to access information about the various food items available to me.
+As a user, I want to be able to access information about the various product items available to me.
 
-The menu has their own page. As well as a downloadable link in the footer which will download the entire menu
-As a user, I want to be able to contact someone to place a food order or make a reservation.
+The menu has their own page. 
+As a user, I want to be able to look at products and add them to my shopping cart.
 
-The reservation form allows the user to select which day, time and how many people you would like to book for. 
+The registration form allows the user to create an account to save orders and show past order infomation. 
 
-Social link on the footer onall pages will allow the user to PM or DM the business through social media.
+Social link will allow the user to PM or DM the business through social media.
 As a user, I want to be able to be able to find the business location.
 
 ## Further Testing
@@ -161,7 +174,7 @@ When there were devices/browsers that I didn't have access to, I used https://ui
 This site was deployed through GitHub Pages using the following steps:
 
 1. Log into [GitHub.](https://github.com/)
-2. Locate the [repository.]()
+2. Locate the [repository.](https://github.com/Amyz1ng/EliteFitness/tree/main)
 3. Locate the settings option along the options bar.
 4. Locate GitHub Pages options towards the bottom of the page.
 5. In 'Source' dropdown, select 'Master' from the branch options.
@@ -171,19 +184,22 @@ This site was deployed through GitHub Pages using the following steps:
 
 ## Cloning Project
 1. Log into [GitHub.](https://github.com/)
-2. Locate the [repository.]()
+2. Locate the [repository.](https://github.com/Amyz1ng/EliteFitness/tree/main)
 3. Click the 'Code' dropdown above the file list.
 4. Copy the URL for the repository.
 5. Open Git Bash on your device.
 6. Change the current working directory to the location where you want the cloned directory.
 7. Type git clone in the CLI and then paste the URL you copied earlier. This is what it should look like:
-- $ git clone https://github.com/Amyz1ng/booking-system-2 
+- $ git clone https://github.com/Amyz1ng/EliteFitness/tree/main 
 8. Press Enter to create your local clone.
 
 # Credits
-
+- boutique ado
+- sean gareth for fixing errors in my code and guiding me 
+-[You can find the Live site to facebook [here](https://www.facebook.com/profile.php?id=61556344694708)
 ## CONTENT
+the Code for the main page was taken from Boutique Ado
 
 ## MEDIA
-
+The Main body image and products images  were taken from Google Images word search
 
