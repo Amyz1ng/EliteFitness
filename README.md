@@ -13,7 +13,7 @@
 [EliteFitnessBusinessModel (2).docx](https://github.com/Amyz1ng/EliteFitness/files/14407505/EliteFitnessBusinessModel.2.docx)
 
 ## THE HEADER  
-
+ 
 The header shows the name of the business and gives a list of tabs such as producs, clothing, gym and special offers, my account and the shopping bag.
 the tabs drop down into other tabs for the shopping cart.
 
