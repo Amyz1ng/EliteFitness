@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    /* background: url('https://elite-fitness-app.s3.eu-west-1.amazonaws.com/young-fitness-man-studio_7502-5008.jpg') no-repeat center center fixed; */
+    background: url('https://elite-fitness-app.s3.eu-west-1.amazonaws.com/young-fitness-man-studio_7502-5008.jpg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
     color: #555;
