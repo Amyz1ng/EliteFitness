@@ -337,7 +337,7 @@ input[name='q']::placeholder {
 }
 
 .card-img-top {
-    height: 200px; /* Fixed height */
+    height: 16vh; /* Fixed height */
     width: 100%; /* Full width of the container */
     object-fit: contain; /* Scale the image to fit the content box, may add blank space */
 }
