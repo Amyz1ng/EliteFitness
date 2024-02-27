@@ -19,8 +19,6 @@ the tabs drop down into other tabs for the shopping cart.
 
 ![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/ca1fba2f-e02d-4e80-91fa-2aadd82fe4d4)
 
-
-
 ## THE BODY  
 
 Home Page
@@ -90,6 +88,14 @@ The main objective in creating the site was to have it look elegant and simplist
   
 # FEATURES  
 ## Current Features
+## facebook
+You can find the Live site to facebook [here](https://www.facebook.com/profile.php?id=61556344694708)
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/d32fbd71-17fe-4a4c-b88e-bac551d26366)
+![image](https://github.com/Amyz1ng/EliteFitness/assets/124196828/878e953d-3e45-4f91-b864-ffca096f719b)
+
+
+## sitemap
+![sitemap](https://github.com/Amyz1ng/EliteFitness/assets/124196828/70838e1d-75d6-4f9b-b624-e349afac379b)
 
 ## Frameworks, Libraries & Programs Used  
 - Font Awesome used for icons.
@@ -196,7 +202,7 @@ This site was deployed through GitHub Pages using the following steps:
 # Credits
 - boutique ado
 - sean gareth for fixing errors in my code and guiding me 
--[You can find the Live site to facebook [here](https://www.facebook.com/profile.php?id=61556344694708)
+
 ## CONTENT
 the Code for the main page was taken from Boutique Ado
 
