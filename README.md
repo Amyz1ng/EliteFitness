@@ -1,10 +1,6 @@
 # Elite Fitness App
 [You can find the Live site] [here](https://elite-fitness-app-11f1c9c12b1b.herokuapp.com/)
 
-# Responsive
-
-*image*
-
 # Lighthouse
 ![lighthouse - desktop](https://github.com/Amyz1ng/EliteFitness/assets/124196828/533fa3e4-f94b-498b-a52f-5882a2c40db4)
 ![Screenshot 2024-02-25 121054](https://github.com/Amyz1ng/EliteFitness/assets/124196828/4ecb6b42-42b2-4971-a5d3-a6aaec110f2f)
@@ -110,8 +106,11 @@ You can find the Live site to facebook [here](https://www.facebook.com/profile.p
 I tested that this page works in different browsers, chrome, brave, firefox, microsoft edge.
 I have confirmed that this project is responsive, looks good and functions on all screen sizes
 using the Devtools device toolbar.
-I confirm that the navigation, header, reservation, contact and gallery text is all readable and easy to understand.
+I confirm that the navigation, header, products pages ect.. is all readable and easy to understand.
 I confirm that the form works: requires entries in every feild, will only accept email address in the email feild and the submit button works.
+
+### emails
+I have tested that emails will send to the clients email address asking to verify their emails in order to make an account.
 
 ## VALIDATOR TESTING
 ### HTML
@@ -173,8 +172,6 @@ I tested on a few decides I have at home, as listed below:
 #### AmIResponsive
 When there were devices/browsers that I didn't have access to, I used https://ui.dev/amiresponsive to make sure that the site was responsive.
 
-## Mobile view 
-
 # Deployment
 ## Deployment through GitHub Pages
 This site was deployed through GitHub Pages using the following steps:
@@ -201,7 +198,8 @@ This site was deployed through GitHub Pages using the following steps:
 
 # Credits
 - boutique ado
-- sean gareth for fixing errors in my code and guiding me 
+- sean gareth for fixing errors in my code and guiding me
+- sean gareth helped with resizing of images and cards, fixed indentations, cleaned up code, helped get images to display 
 
 ## CONTENT
 the Code for the main page was taken from Boutique Ado
